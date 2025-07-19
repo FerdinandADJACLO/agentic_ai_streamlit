@@ -1,0 +1,14 @@
+ECHO is on.
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Credentials
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db

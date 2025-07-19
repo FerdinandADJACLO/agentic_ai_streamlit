@@ -1,0 +1,829 @@
+{
+  "self-expression": {
+    "TikTok": [
+      "Encourage viewers to speak up through storytelling",
+      "Explore identity through poetic metaphors"
+    ],
+    "LinkedIn": [
+      "Discuss the value of emotional clarity",
+      "Reflect on a turning point in your public voice"
+    ]
+  },
+  "authenticity": {
+    "TikTok": [
+      "Share a moment that changed your perspective.",
+      "Be real: what’s something you struggle with but rarely say?",
+      "Talk about a moment you chose honesty over perfection."
+    ],
+    "LinkedIn": [
+      "Talk about vulnerability in leadership.",
+      "Write about how vulnerability builds trust in business.",
+      "Share a time when being authentic helped you connect deeper."
+    ]
+  },
+  "clarity": {
+    "TikTok": ["Explain a complex idea in 30 seconds."],
+    "LinkedIn": ["Write about simplifying decision-making."]
+  },
+  "resilience": {
+    "TikTok": [
+      "Share a moment when you bounced back from failure.",
+      "What’s one thing that helped you stay strong during tough times?"
+    ],
+    "LinkedIn": [
+      "Write about how setbacks shaped your leadership style.",
+      "Share a story of resilience that inspired your team."
+    ]
+  },
+  "curiosity": {
+    "TikTok": [
+      "Ask your audience a question you’ve been pondering.",
+      "Explore a weird fact and ask: what does this mean for us?"
+    ],
+    "LinkedIn": [
+      "Write about a trend you don’t fully understand yet.",
+      "Share how curiosity led to a breakthrough in your work."
+    ]
+  }
+,
+  "focus": {
+    "TikTok": [
+      "Show how you eliminate distractions during work.",
+      "Share your favorite focus ritual or tool."
+    ],
+    "LinkedIn": [
+      "Write about how focus drives results.",
+      "Share a story of deep work that paid off."
+    ]
+  },
+  "growth": {
+    "TikTok": [
+      "Talk about a personal growth moment.",
+      "What’s one mindset shift that changed your life?"
+    ],
+    "LinkedIn": [
+      "Write about how growth mindset impacts leadership.",
+      "Share a lesson you learned from failure."
+    ]
+  },
+  "joy": {
+    "TikTok": [
+      "Capture a joyful moment from your day.",
+      "What’s something that always lifts your mood?"
+    ],
+    "LinkedIn": [
+      "Write about finding joy in your work.",
+      "Share how joy fuels creativity and connection."
+    ]
+  },
+  "grief": {
+    "TikTok": [
+      "Share a quiet reflection on loss and healing.",
+      "What helped you through a difficult time?"
+    ],
+    "LinkedIn": [
+      "Write about how grief shaped your perspective.",
+      "Share how workplaces can support grieving employees."
+    ]
+  },
+  "anxiety": {
+    "TikTok": [
+      "Talk about how you manage anxious thoughts.",
+      "Share a calming practice that helps you reset."
+    ],
+    "LinkedIn": [
+      "Write about anxiety in high-pressure environments.",
+      "Share how leaders can create safe spaces for mental health."
+    ]
+  },
+  "hope": {
+    "TikTok": [
+      "What gives you hope right now?",
+      "Share a story that restored your faith in people."
+    ],
+    "LinkedIn": [
+      "Write about hope as a leadership trait.",
+      "Share how hope drives innovation and resilience."
+    ]
+  },
+  "pride": {
+    "TikTok": [
+      "Celebrate a recent win or achievement.",
+      "What are you proud of that others might not know?"
+    ],
+    "LinkedIn": [
+      "Write about pride in your team’s work.",
+      "Share how pride fuels excellence and ownership."
+    ]
+  },
+  "shame": {
+    "TikTok": [
+      "Talk about a moment you overcame shame.",
+      "What’s something you’ve learned to forgive yourself for?"
+    ],
+    "LinkedIn": [
+      "Write about how shame affects workplace culture.",
+      "Share how transparency can dissolve shame."
+    ]
+  },
+  "sadness": {
+    "TikTok": [
+      "Share a quiet moment of reflection.",
+      "What’s something you miss and why?"
+    ],
+    "LinkedIn": [
+      "Write about emotional honesty in leadership.",
+      "Share how sadness can deepen empathy."
+    ]
+  },
+  "excitement": {
+    "TikTok": [
+      "Show what’s got you excited today!",
+      "Share a project you can’t wait to launch."
+    ],
+    "LinkedIn": [
+      "Write about how excitement drives momentum.",
+      "Share how to channel excitement into execution."
+    ]
+  },
+  "boredom": {
+    "TikTok": [
+      "Do something weird to break boredom.",
+      "Share a creative way you fight monotony."
+    ],
+    "LinkedIn": [
+      "Write about boredom as a signal for change.",
+      "Share how boredom led you to innovate."
+    ]
+  },
+  "nostalgia": {
+    "TikTok": [
+      "Share a childhood memory that shaped you.",
+      "What’s something from the past you still cherish?"
+    ],
+    "LinkedIn": [
+      "Write about legacy in business.",
+      "Share how nostalgia can inspire branding."
+    ]
+  },
+  "fear": {
+    "TikTok": [
+      "Talk about a fear you’ve faced recently.",
+      "What’s something that used to scare you but doesn’t anymore?"
+    ],
+    "LinkedIn": [
+      "Write about fear in entrepreneurship.",
+      "Share how fear can be reframed as fuel."
+    ]
+  },
+  "confidence": {
+    "TikTok": [
+      "Share a tip that boosts your confidence.",
+      "What’s one thing you’ve mastered recently?"
+    ],
+    "LinkedIn": [
+      "Write about how confidence builds trust.",
+      "Share a story of stepping into your power."
+    ]
+  },
+  "playfulness": {
+    "TikTok": [
+      "Do something silly and unexpected.",
+      "Share a playful twist on a serious topic."
+    ],
+    "LinkedIn": [
+      "Write about playfulness in creative teams.",
+      "Share how humor improves collaboration."
+    ]
+  },
+  "discipline": {
+    "TikTok": [
+      "Show your daily routine that keeps you focused.",
+      "What’s one habit that changed your productivity?"
+    ],
+    "LinkedIn": [
+      "Write about how discipline fuels long-term success.",
+      "Share a story of sticking to a goal despite challenges."
+    ]
+  },
+  "reflection": {
+    "TikTok": [
+      "Share a lesson you learned this week.",
+      "What’s something you’ve been thinking deeply about?"
+    ],
+    "LinkedIn": [
+      "Write about the power of reflection in leadership.",
+      "Share how reflection improves decision-making."
+    ]
+  },
+  "adaptability": {
+    "TikTok": [
+      "Talk about a time you had to pivot quickly.",
+      "What’s one change you’ve embraced recently?"
+    ],
+    "LinkedIn": [
+      "Write about adaptability as a career skill.",
+      "Share how your team navigated change."
+    ]
+  },
+"ambition": {
+  "TikTok": [
+    "Share your big dream or goal.",
+    "What drives you to keep pushing forward?"
+  ],
+  "LinkedIn": [
+    "Write about ambition and balance.",
+    "Share how ambition shaped your career path."
+  ]
+},
+"openness": {
+  "TikTok": [
+    "Share a time you changed your mind about something important.",
+    "What’s a perspective you’re learning to understand?"
+  ],
+  "LinkedIn": [
+    "Write about openness as a leadership trait.",
+    "Share how openness led to unexpected growth."
+  ]
+},
+  "skepticism": {
+    "TikTok": [
+      "Question a trend or idea you’re unsure about.",
+      "What’s something you used to believe but now doubt?"
+    ],
+    "LinkedIn": [
+      "Write about healthy skepticism in business.",
+      "Share how questioning helped you avoid a mistake."
+    ]
+  },
+  "decisiveness": {
+    "TikTok": [
+      "Talk about a decision you made quickly and confidently.",
+      "What helps you make tough choices?"
+    ],
+    "LinkedIn": [
+      "Write about decisiveness in leadership.",
+      "Share a framework you use to make decisions."
+    ]
+  },
+  "intuition": {
+    "TikTok": [
+      "Share a moment when you trusted your gut.",
+      "What’s something you just *knew* without proof?"
+    ],
+    "LinkedIn": [
+      "Write about intuition in business strategy.",
+      "Share how intuition complements data."
+    ]
+  },
+  "problem-solving": {
+    "TikTok": [
+      "Break down a challenge you recently solved.",
+      "What’s your go-to method for solving problems?"
+    ],
+    "LinkedIn": [
+      "Write about creative problem-solving in your team.",
+      "Share a case study of a problem turned into opportunity."
+    ]
+  },
+  "strategic thinking": {
+    "TikTok": [
+      "Explain a strategy you use in life or work.",
+      "What’s one strategic move you’re proud of?"
+    ],
+    "LinkedIn": [
+      "Write about strategic thinking in leadership.",
+      "Share how strategy helped you scale or pivot."
+    ]
+  },
+  "creativity": {
+    "TikTok": [
+      "Show a creative twist on something ordinary.",
+      "What’s your favorite way to spark creativity?"
+    ],
+    "LinkedIn": [
+      "Write about creativity in problem-solving.",
+      "Share how creative thinking drives innovation."
+    ]
+  },
+  "innovation": {
+    "TikTok": [
+      "Show a tool or idea that feels futuristic.",
+      "What’s one innovation you wish existed?"
+    ],
+    "LinkedIn": [
+      "Write about fostering innovation in your team.",
+      "Share how innovation helped you stay competitive."
+    ]
+  },
+  "learning": {
+    "TikTok": [
+      "Share something new you learned this week.",
+      "What’s a skill you’re currently working on?"
+    ],
+    "LinkedIn": [
+      "Write about lifelong learning in your career.",
+      "Share how learning keeps you adaptable."
+    ]
+  },
+  "perspective": {
+    "TikTok": [
+      "Talk about how your view changed on a topic.",
+      "What’s a perspective you admire but don’t share?"
+    ],
+    "LinkedIn": [
+      "Write about perspective-taking in leadership.",
+      "Share how diverse perspectives shaped a decision."
+    ]
+  },
+  "storytelling": {
+    "TikTok": [
+      "Tell a short story that taught you a lesson.",
+      "Use metaphor to explain a business concept."
+    ],
+    "LinkedIn": [
+      "Write about the power of storytelling in branding.",
+      "Share a story that shaped your career path."
+    ]
+  },
+  "persuasion": {
+    "TikTok": [
+      "Share a tip for convincing others effectively.",
+      "What’s one persuasive moment you’re proud of?"
+    ],
+    "LinkedIn": [
+      "Write about persuasion in leadership.",
+      "Share how storytelling enhances persuasion."
+    ]
+  },
+  "listening": {
+    "TikTok": [
+      "Talk about a time you really listened and learned.",
+      "What’s something you heard that changed your view?"
+    ],
+    "LinkedIn": [
+      "Write about active listening in leadership.",
+      "Share how listening improved team dynamics."
+    ]
+  },
+  "fluency": {
+    "TikTok": [
+      "Practice a phrase in English and explain its meaning.",
+      "Share a tip for improving fluency fast."
+    ],
+    "LinkedIn": [
+      "Write about fluency in global business.",
+      "Share how language skills opened new doors."
+    ]
+  },
+  "tone": {
+    "TikTok": [
+      "Say the same sentence in different tones—see how it changes!",
+      "Talk about how tone affects communication."
+    ],
+    "LinkedIn": [
+      "Write about tone in professional writing.",
+      "Share how tone shaped a negotiation or pitch."
+    ]
+  },
+  "feedback": {
+    "TikTok": [
+      "Share how you give or receive feedback.",
+      "What’s the best feedback you ever got?"
+    ],
+    "LinkedIn": [
+      "Write about feedback culture in teams.",
+      "Share how feedback helped you grow."
+    ]
+  },
+  "humor": {
+    "TikTok": [
+      "Tell a funny story from your work life.",
+      "Use humor to explain a serious concept."
+    ],
+    "LinkedIn": [
+      "Write about humor in leadership.",
+      "Share how humor builds team morale."
+    ]
+  },
+  "metaphor": {
+    "TikTok": [
+      "Use a metaphor to describe your current mood.",
+      "Explain a business idea using a metaphor."
+    ],
+    "LinkedIn": [
+      "Write about metaphor in storytelling.",
+      "Share how metaphors clarify complex ideas."
+    ]
+  },
+  "silence": {
+    "TikTok": [
+      "Share what silence teaches you.",
+      "What’s something powerful you learned in quiet moments?"
+    ],
+    "LinkedIn": [
+      "Write about silence in leadership and reflection.",
+      "Share how silence can be strategic."
+    ]
+  },
+"honesty": {
+  "TikTok": [
+    "Talk about a time you chose honesty over comfort.",
+    "What’s something you’ve learned to say honestly?"
+  ],
+  "LinkedIn": [
+    "Write about honesty in business relationships.",
+    "Share how honesty builds trust and clarity."
+  ]
+},
+"empathy": {
+  "TikTok": [
+    "Share a moment when you truly understood someone else’s struggle.",
+    "What’s one way you practice empathy daily?"
+  ],
+  "LinkedIn": [
+    "Write about empathy in leadership.",
+    "Share how empathy improves team collaboration."
+  ]
+},
+  "articulation": {
+    "TikTok": [
+      "Explain a complex idea in simple terms.",
+      "Practice saying something clearly and concisely."
+    ],
+    "LinkedIn": [
+      "Write about articulation in professional communication.",
+      "Share how clarity helped you win a client or pitch."
+    ]
+  },
+  "brevity": {
+    "TikTok": [
+      "Say something powerful in under 10 words.",
+      "Challenge: explain your job in one sentence."
+    ],
+    "LinkedIn": [
+      "Write about the power of brevity in business writing.",
+      "Share how concise messaging improved your results."
+    ]
+  },
+  "rhythm": {
+    "TikTok": [
+      "Show your daily rhythm or creative flow.",
+      "What’s your favorite rhythm for productivity?"
+    ],
+    "LinkedIn": [
+      "Write about rhythm in team dynamics.",
+      "Share how rhythm helps balance work and rest."
+    ]
+  },
+  "voice": {
+    "TikTok": [
+      "Talk about finding your voice as a creator.",
+      "What’s one thing your voice stands for?"
+    ],
+    "LinkedIn": [
+      "Write about voice in branding or leadership.",
+      "Share how your voice evolved over time."
+    ]
+  },
+  "connection": {
+    "TikTok": [
+      "Share a moment of deep connection with someone.",
+      "What helps you feel truly connected?"
+    ],
+    "LinkedIn": [
+      "Write about connection in remote teams.",
+      "Share how connection drives collaboration."
+    ]
+  },
+  "negotiation": {
+    "TikTok": [
+      "Be real: what’s something you struggle with but rarely say?",
+      "Talk about a moment you chose honesty over perfection."
+    ],
+    "LinkedIn": [
+      "Write about how vulnerability builds trust in business.",
+      "Share a time when being authentic helped you connect deeper."
+    ]
+  },
+  "branding": {
+    "TikTok": [
+      "Show your personal brand in one sentence.",
+      "What’s one thing that defines your brand?"
+    ],
+    "LinkedIn": [
+      "Write about branding in the digital age.",
+      "Share how your brand evolved over time."
+    ]
+  },
+  "entrepreneurship": {
+    "TikTok": [
+      "Share a behind-the-scenes moment from your business.",
+      "What’s one lesson you’ve learned as an entrepreneur?"
+    ],
+    "LinkedIn": [
+      "Write about the mindset of entrepreneurship.",
+      "Share how you built something from scratch."
+    ]
+  },
+  "marketing": {
+    "TikTok": [
+      "Break down a marketing trick you love.",
+      "What’s one campaign that inspired you?"
+    ],
+    "LinkedIn": [
+      "Write about marketing strategy in your field.",
+      "Share how storytelling enhances marketing."
+    ]
+  },
+  "networking": {
+    "TikTok": [
+      "Share a tip for making meaningful connections.",
+      "What’s one conversation that changed your path?"
+    ],
+    "LinkedIn": [
+      "Write about networking in your industry.",
+      "Share how relationships drive opportunity."
+    ]
+  },
+  "productivity": {
+    "TikTok": [
+      "Show your favorite productivity hack.",
+      "What’s one tool that boosts your focus?"
+    ],
+    "LinkedIn": [
+      "Write about productivity in remote work.",
+      "Share how you manage your time effectively."
+    ]
+  },
+  "execution": {
+    "TikTok": [
+      "Talk about how you turn ideas into action.",
+      "What’s one thing you executed this week?"
+    ],
+    "LinkedIn": [
+      "Write about execution in leadership.",
+      "Share how execution drives results."
+    ]
+  },
+  "risk-taking": {
+    "TikTok": [
+      "Share a risk you took and what happened.",
+      "What’s something you did that scared you?"
+    ],
+    "LinkedIn": [
+      "Write about risk-taking in entrepreneurship.",
+      "Share how calculated risks led to growth."
+    ]
+  },
+  "decision-making": {
+    "TikTok": [
+      "Talk about a tough decision you made recently.",
+      "What helps you make smart choices?"
+    ],
+    "LinkedIn": [
+      "Write about decision-making frameworks.",
+      "Share how clarity improves decisions."
+    ]
+  },
+  "influence": {
+    "TikTok": [
+      "Share how someone influenced your thinking.",
+      "What’s one way you try to influence others?"
+    ],
+    "LinkedIn": [
+      "Write about influence in leadership.",
+      "Share how influence builds trust and impact."
+    ]
+  },
+  "collaboration": {
+    "TikTok": [
+      "Show how you collaborate with others.",
+      "What’s one lesson you learned from teamwork?"
+    ],
+    "LinkedIn": [
+      "Write about collaboration in remote teams.",
+      "Share how collaboration drives innovation."
+    ]
+  },
+  "vision": {
+    "TikTok": [
+      "Share your vision for the future.",
+      "What’s one dream you’re working toward?"
+    ],
+    "LinkedIn": [
+      "Write about vision in leadership.",
+      "Share how vision shapes strategy."
+    ]
+  },
+  "delegation": {
+    "TikTok": [
+      "Talk about how you delegate tasks effectively.",
+      "What’s one thing you’ve learned to let go of?"
+    ],
+    "LinkedIn": [
+      "Write about delegation in team management.",
+      "Share how delegation builds trust and efficiency."
+    ]
+  },
+  "impact": {
+    "TikTok": [
+      "Share a moment when you made a real difference.",
+      "What’s one way you want to impact others?"
+    ],
+    "LinkedIn": [
+      "Write about impact-driven leadership.",
+      "Share how your work creates meaningful change."
+    ]
+  },
+  "reputation": {
+    "TikTok": [
+      "What do you want people to say about you?",
+      "Share a moment that shaped your reputation."
+    ],
+    "LinkedIn": [
+      "Write about reputation in business.",
+      "Share how trust builds long-term value."
+    ]
+  },
+  "team-building": {
+    "TikTok": [
+      "Show how you build team spirit.",
+      "What’s one ritual your team loves?"
+    ],
+    "LinkedIn": [
+      "Write about team-building strategies.",
+      "Share how culture drives collaboration."
+    ]
+  },
+  "value creation": {
+    "TikTok": [
+      "Break down how your work creates value.",
+      "What’s one thing you offer that’s unique?"
+    ],
+    "LinkedIn": [
+      "Write about value creation in entrepreneurship.",
+      "Share how you measure impact beyond profit."
+    ]
+  },
+  "growth hacking": {
+    "TikTok": [
+      "Share a clever growth trick you’ve used.",
+      "What’s one unconventional strategy that worked?"
+    ],
+    "LinkedIn": [
+      "Write about growth hacking in startups.",
+      "Share how experimentation drives results."
+    ]
+  },
+  "tradition": {
+    "TikTok": [
+      "Share a tradition that shaped your identity.",
+      "What’s one cultural ritual you love?"
+    ],
+    "LinkedIn": [
+      "Write about tradition in leadership or branding.",
+      "Share how tradition builds trust and meaning."
+    ]
+  },
+  "diversity": {
+    "TikTok": [
+      "Celebrate a unique aspect of your background.",
+      "What’s one way diversity enriches your life?"
+    ],
+    "LinkedIn": [
+      "Write about diversity in teams or leadership.",
+      "Share how diverse perspectives drive innovation."
+    ]
+  },
+  "symbolism": {
+    "TikTok": [
+      "Show a symbol that means something to you.",
+      "Explain a cultural symbol and its deeper meaning."
+    ],
+    "LinkedIn": [
+      "Write about symbolism in branding or storytelling.",
+      "Share how symbols shape perception and emotion."
+    ]
+  },
+  "ritual": {
+    "TikTok": [
+      "Share a daily ritual that grounds you.",
+      "What’s one ritual that boosts your creativity?"
+    ],
+    "LinkedIn": [
+      "Write about rituals in team culture.",
+      "Share how rituals create rhythm and trust."
+    ]
+  },
+  "language": {
+    "TikTok": [
+      "Teach a phrase from your native language.",
+      "Talk about how language shapes thought."
+    ],
+    "LinkedIn": [
+      "Write about language in global business.",
+      "Share how multilingualism opens doors."
+    ]
+  },
+  "heritage": {
+    "TikTok": [
+      "Share a story from your family or culture.",
+      "What’s one thing you’ve inherited that inspires you?"
+    ],
+    "LinkedIn": [
+      "Write about heritage in leadership or branding.",
+      "Share how heritage builds authenticity."
+    ]
+  },
+  "community": {
+    "TikTok": [
+      "Show how your community supports you.",
+      "What’s one thing you love about your local culture?"
+    ],
+    "LinkedIn": [
+      "Write about community-building in business.",
+      "Share how community drives resilience and growth."
+    ]
+  },
+  "belonging": {
+    "TikTok": [
+      "Talk about a time you felt truly seen.",
+      "What helps you feel like you belong?"
+    ],
+    "LinkedIn": [
+      "Write about belonging in workplace culture.",
+      "Share how inclusion builds trust and creativity."
+    ]
+  },
+  "worldview": {
+    "TikTok": [
+      "Share a belief that shapes your decisions.",
+      "What’s one thing your culture taught you about life?"
+    ],
+    "LinkedIn": [
+      "Write about worldview in leadership.",
+      "Share how global perspectives shape strategy."
+    ]
+  },
+  "cross-cultural fluency": {
+    "TikTok": [
+      "Talk about navigating different cultures.",
+      "What’s one lesson you learned abroad?"
+    ],
+    "LinkedIn": [
+      "Write about cross-cultural fluency in business.",
+      "Share how cultural awareness builds bridges."
+    ]
+  },
+  "global mindset": {
+    "TikTok": [
+      "Share how you think globally in your work.",
+      "What’s one global issue you care about?"
+    ],
+    "LinkedIn": [
+      "Write about global mindset in leadership.",
+      "Share how thinking globally drives innovation."
+    ]
+  },
+  "identity": {
+    "TikTok": [
+      "Talk about what defines you beyond your job.",
+      "What’s one part of your identity you’re proud of?"
+    ],
+    "LinkedIn": [
+      "Write about identity in personal branding.",
+      "Share how identity shapes leadership style."
+    ]
+  },
+  "legacy": {
+    "TikTok": [
+      "What do you want to leave behind?",
+      "Share a story that shaped your values."
+    ],
+    "LinkedIn": [
+      "Write about legacy in business or leadership.",
+      "Share how long-term thinking shapes decisions."
+    ]
+  },
+  "myth": {
+    "TikTok": [
+      "Debunk a myth in your industry.",
+      "What’s a cultural myth you grew up with?"
+    ],
+    "LinkedIn": [
+      "Write about myth in branding or storytelling.",
+      "Share how myths shape perception and behavior."
+    ]
+  },
+  "archetypes": {
+    "TikTok": [
+      "Which archetype do you relate to most?",
+      "Use an archetype to describe your creative style."
+    ],
+    "LinkedIn": [
+      "Write about archetypes in leadership or branding.",
+      "Share how archetypes guide storytelling."
+    ]
+  }
+}
